@@ -1,0 +1,15 @@
+# Rust
+/target/
+Cargo.lock.bak
+
+# Тулчейны и дистрибутивы (локальные)
+/tools/
+/downloads/
+
+# Скриншоты и логи
+/screenshots/
+*.log
+
+# Системное
+desktop.ini
+Thumbs.db
